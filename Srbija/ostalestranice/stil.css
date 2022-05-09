@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://bookaweb.s3.eu-central-1.amazonaws.com/media/23850/kalemegdan-2000x1300___media_library_original_2000_1300___media_library_original_2000_1300-%281%29.jpg");
+}
+
+h1{
+    background-color: lightskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+header{
+    font-size: x-large;
+    font-weight: bold;
+    background-color: lightcoral;
+}
+p{
+    font-weight: bold;
+    background-color: white;
+}
+
+footer{
+    font-weight: bold;
+    background-color: white;
+}
+h2{
+    background-color: lightskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ul{
+    background-color: white;
+}
+    
